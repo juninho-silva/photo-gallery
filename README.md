@@ -1,5 +1,7 @@
-Photo Gallery
+# Photo Gallery
 
-Application of exemple, building in React-Dom and Ionic(v5).
+### Sample application, built in React-Dom and Ionic (v5).
 
-For download of the project need of the installation of ionic v5+ 
+To download the project it is necessary to install the following packages
+
+  - **Ionic (v5+)**
